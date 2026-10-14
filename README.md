@@ -1,4 +1,3 @@
-# Ju-matsuda
 # Olá! Eu sou a Juliana Matsuda 👋
 
 Estudante de Tecnologia (ADS) | Análise de Dados | AWS & Cloud Computing
@@ -26,13 +25,13 @@ Estudante de Tecnologia (ADS) | Análise de Dados | AWS & Cloud Computing
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ju-matsuda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-matsuda&layout=compact&langs_count=6&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juyuria&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuria&layout=compact&langs_count=6&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliana-matsuda)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ju-matsuda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianamatsuda)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juyuria)
